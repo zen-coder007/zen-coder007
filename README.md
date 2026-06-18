@@ -28,15 +28,15 @@
 </p>
 
 ---
-
 ## 📊 GITHUB STATS
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zencoder-007&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zencoder-007&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zencoder-007&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zencoder-007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1" height="150"/>
+
+<img src="https://streak-stats.demolab.com?user=zencoder-007&theme=tokyonight&hide_border=true" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zencoder-007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1" height="150"/>
 </p>
----
 
 ## 🧠 CODING PROFILES
 

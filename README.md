@@ -27,13 +27,7 @@
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
 
-<p align="center">
-  <img src="https://github.com/zen-coder007/zen-coder007/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## 📊 GITHUB STATS
 

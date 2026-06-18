@@ -5,19 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?..." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FFD700&center=true&vCenter=true&width=750&lines=Competitive+Programmer;DSA+%7C+Problem+Solving;AI+%7C+Machine+Learning+Enthusiast;Consistency+%3D+Success" />
 </p>
 
 ---
-
-## 🤖 AI INTRO
-
-```text
-> Initializing system...
-> Loading developer profile...
-> Hi, I'm Aman Varshney (Zencoder-007)
-> Competitive Programmer | AI Explorer
-> Status: Learning & Building 🚀
 
 ## 🧠 ABOUT ME
 

@@ -31,9 +31,13 @@
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats-31xazp2uh-zencoder007.vercel.app/api?username=zencoder-007&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  
-  <img src="https://github-readme-stats-31xazp2uh-zencoder007.vercel.app/api/top-langs/?username=zencoder-007&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=zencoder-007&show_icons=true&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=zencoder-007&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zencoder-007&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---

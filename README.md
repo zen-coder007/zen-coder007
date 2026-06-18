@@ -32,11 +32,11 @@
 ## 📊 GITHUB STATS
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zencoder-007&theme=tokyonight" />
+<img src="https://komarev.com/ghpvc/?username=zencoder-007&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zencoder-007&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zencoder-007&theme=tokyonight" />
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=zencoder-007&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ## 🧠 CODING PROFILES

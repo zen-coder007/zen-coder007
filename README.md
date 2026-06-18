@@ -17,7 +17,7 @@
 - 💻 Competitive Programmer  
 - ⚔️ Solved 1000+ Problems  
 - 🚀 Full Stack + AI Learner  
-- 🎯 Goal: IAS + Tech  
+ 
 
 ---
 
@@ -28,14 +28,15 @@
 </p>
 
 ---
+
 ## 📊 GITHUB STATS
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zencoder-007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zencoder-007&theme=tokyonight" />
 
-<img src="https://streak-stats.demolab.com?user=zencoder-007&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zencoder-007&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zencoder-007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zencoder-007&theme=tokyonight" />
 </p>
 
 ## 🧠 CODING PROFILES
@@ -84,6 +85,3 @@
 
 ---
 
-<p align="center">
-<b>“First solve the problem. Then, write the code.”</b>
-</p>

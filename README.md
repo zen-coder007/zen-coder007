@@ -4,10 +4,6 @@
 <img src="https://i.imgur.com/8Km9tLL.jpeg" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Code.+Break.+Build.;DSA+%7C+Full+Stack+%7C+AI%2FML" />
-</p>
-
 ---
 
 <p align="center">

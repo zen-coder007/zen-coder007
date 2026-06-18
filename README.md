@@ -34,9 +34,9 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zencoder-007&show_icons=true&bg_color=000000&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF&border_color=00F7FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zen-coder007&show_icons=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=zencoder-007&theme=dark&background=000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&border=00F7FF" />
+<img width="49%" src="https://streak-stats.demolab.com?user=zen-coder007&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&border=FFD700" />
 
 </p>
 

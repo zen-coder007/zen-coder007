@@ -57,6 +57,24 @@
 
 ---
 
+
+## ⚙️ TECH STACK
+(your tech stack code)
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://github.com/zen-coder007/zen-coder007/blob/main/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📊 GITHUB STATS
+(your stats code)
+
+
 ## 🧠 CODING PROFILES
 
 <p align="center">

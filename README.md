@@ -1,7 +1,11 @@
-<h1 align="center">⚡ Zencoder-007</h1>
+<h1 align="center">Hi 👋 I'm Aman Varshney</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FFD700&center=true&vCenter=true&width=750&lines=Code.+Break.+Build.;DSA+%7C+Full+Stack+%7C+AI%2FML;Welcome+to+Zencoder-007" />
+  <b>⚡ Zencoder-007</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FFD700&center=true&vCenter=true&width=750&lines=Competitive+Programmer;DSA+%7C+Problem+Solving;AI+%7C+Machine+Learning+Enthusiast;Consistency+%3D+Success" />
 </p>
 
 ---
@@ -10,14 +14,23 @@
 
 - 💻 Competitive Programmer  
 - ⚔️ Solved 1000+ Problems  
-- 🚀 Full Stack + AI Learner  
+- 🤖 Exploring AI & Machine Learning  
+- 📈 Focus: DSA + Problem Solving  
 
 ---
 
 ## ⚙️ TECH STACK
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,mongodb,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,mongodb,python,git,github,vscode" />
+</p>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://github.com/zen-coder007/zen-coder007/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -37,9 +50,7 @@
 ## 🔥 MOST USED LANGUAGES
 
 <p align="center">
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zen-coder007&layout=compact&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700" />
-
 </p>
 
 ---
@@ -47,9 +58,7 @@
 ## 📈 CONTRIBUTION GRAPH
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zen-coder007&bg_color=000000&color=FFD700&line=FFD700&point=FFFFFF" />
-
 </p>
 
 ---

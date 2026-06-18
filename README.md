@@ -1,9 +1,5 @@
 <h1 align="center">⚡ Zencoder-007</h1>
 
-<p align="center">
-<img src="https://i.imgur.com/8Km9tLL.jpeg" width="100%" />
-</p>
-
 ---
 
 <p align="center">

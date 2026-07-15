@@ -33,18 +33,17 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zen-coder007&show_icons=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zen-coder007&show_icons=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" />
 
 <img width="49%" src="https://streak-stats.demolab.com?user=zen-coder007&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&border=FFD700" />
 
-</p>
 
 ---
 
 ## 🔥 MOST USED LANGUAGES
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zen-coder007&layout=compact&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zen-coder007&layout=compact&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700" />
 </p>
 
 ---
@@ -58,10 +57,6 @@
 ---
 
 
-## ⚙️ TECH STACK
-(your tech stack code)
-
----
 
 ## 🐍 CONTRIBUTION SNAKE
 
